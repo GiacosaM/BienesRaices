@@ -1,0 +1,9 @@
+node_modules
+cypress
+public/imagenes
+vendor/composer
+vendor/guzzlehttp
+vendor/intervention
+vendor/phpmailer
+vendor/psr
+vendor/ralouphie
