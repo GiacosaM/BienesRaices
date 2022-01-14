@@ -21,7 +21,7 @@
                 <div class="texto-entrada">
                     <a href="entrada.php">
                         <h4> <?php  echo $blog->titulo; ?> </h4>
-                        <p class="informacion-meta">Escrito el: <span><?php  echo $blog->creado; ?></span> por: <span>Admin</span></p>
+                        <p class="informacion-meta">Escrito el dia: <span><?php  echo $blog->creado; ?></span> por: <span>Admin</span></p>
                         <p>
                         <?php  echo $blog->descripcion; ?>
                         </p>
