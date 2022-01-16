@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'bienesraicesfe'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C37FD2A679C4A5788D4E8DFC3AC620D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E41723E9E1AE49049AA71412CD7EAA78 }}
           package: .
